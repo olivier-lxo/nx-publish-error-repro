@@ -25,5 +25,10 @@
         }
       }
     }
-  ]
+  ],
+  "release": {
+    "projects": [
+      "packages/*"
+    ]
+  }
 }
